@@ -54,3 +54,11 @@ hr {
     height: 5px;
     margin: 20px 0;
 }
+
+.icon img {
+    width: 30%;
+    border-radius: 30%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
