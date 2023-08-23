@@ -46,3 +46,11 @@
     width: 700px;
     height: 600px;
 }
+
+hr {
+    border: none;
+    border-top: 3px solid black;
+    color: black;
+    height: 5px;
+    margin: 20px 0;
+}
